@@ -11,3 +11,6 @@ https://github.com/IBM-ICP4D/cloud-pak-ocp-4/blob/master/doc/vmware-step-1-prepa
 
 Cloud Pak for Security
 https://github.ibm.com/cp4s/cp4s-developer-tools/tree/master/developer-docs
+
+IBM Cloud Account Setup
+https://github.ibm.com/cp4s/cp4s-developer-tools/blob/master/developer-docs/QuickStart-guide-to-install-CP4S-in-ROKS-on-IBMCloud.md
