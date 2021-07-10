@@ -20,3 +20,8 @@ Use Your FIDO2 Key for 2FA on IBM Cloud Apps
 ---------------------------------------------------
 https://www.ibm.com/cloud/blog/use-your-fido2-key-for-2fa-on-ibm-cloud-apps
 https://www.ibm.com/cloud/blog/going-passwordless-on-ibm-cloud-thanks-to-fido2
+
+IBM Security Verify
+-----------------------
+https://www.ibm.com/docs/en/security-verify?topic=overview
+https://docs.verify.ibm.com/verify/docs/use-cases
