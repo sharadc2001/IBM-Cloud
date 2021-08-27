@@ -3,6 +3,10 @@ https://github.ibm.com/gsi-labs/ibmcloud-reference-architectures <br/>
 https://cloudnativetoolkit.dev/setup/setup-options.html <br/>
 https://goteleport.com/
 
+# Portworx Data Replication
+
+https://test.cloud.ibm.com/docs/openshift?topic=openshift-portworx
+
 Cloud Packs
 https://github.ibm.com/fketelaars/iccve-ocp-4
 
